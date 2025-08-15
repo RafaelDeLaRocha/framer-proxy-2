@@ -1,6 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/(.*)", "destination": "https://delicious-booking-173938.framer.app" }
-  ]
-}
-
